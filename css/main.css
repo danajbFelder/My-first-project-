@@ -1,7 +1,28 @@
-<body {
-    background-color: Yellow;
+ body {
+       background-color: grey;
+
+        border: 5px outset black;
+        background-color: grey
+        text-align: center;
+  } all-scroll cursor: all-scroll;{
+        
+       }
+    }
   }
   h1 {
-    color: green;
-    marging-left: 40px;
+    color: turquoise;
+    margin: center 40px;
+  }
+  h2 {
+      color: turquoise;
+      margin: center 50px;
+  }
+  h3 
+  p{
+      color: turquoise;
+  }
+  img {
+    width: 100%;
+    height: auto;
+    border: 5px solid black;
   }
